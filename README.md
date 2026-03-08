@@ -4,9 +4,10 @@ Python to help creating python with a simple argument interface using argparse
 *you can encode password
 
 ## requirement
-| library                 | example                               |
-|-------------------------|---------------------------------------|
-| printoutputdebug_module | from printoutputdebug_module import * |
+| library  | example                   |
+|----------|---------------------------|
+| argparse | import argparse           |
+| pprint   | from pprint import pprint |
 
 ## how to add remove parameters and define the type of the argument
 * the arguments are in the JSON array ( beginning with "arg":[] )

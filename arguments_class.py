@@ -2,7 +2,6 @@
 # version 1.4
 import sys
 import argparse
-import json
 import os
 import io
 import time

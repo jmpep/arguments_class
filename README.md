@@ -26,9 +26,10 @@ Python to help creating python with a simple argument interface using argparse
 | action   | store_true, store_false                  |
 
 ## usage 
-| library    | example                       |
-|------------|-------------------------------|
-| parameters | from arguments_class import * |
+| library  | example                   |
+|----------|---------------------------|
+| argparse | import argparse           |
+| pprint   | from pprint import pprint |
 
 * set another help file name 
 ``` args=arguments("myhelp.json")
